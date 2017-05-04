@@ -42,4 +42,75 @@
     
   </entry>
   
+  <entry>
+    <title>Plex + NZB + Raspberry PI</title>
+    <link href="http://beardo.io/2016/12/03/Plex-NZB-Raspberry-PI/"/>
+    <id>http://beardo.io/2016/12/03/Plex-NZB-Raspberry-PI/</id>
+    <published>2016-12-04T04:38:33.000Z</published>
+    <updated>2017-05-04T05:33:12.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>This is a guide to rolling out your own customizable alternative to a <a href="https://www.reddit.com/r/kodi/" target="_blank" rel="external">Kodi Box</a>. By the end of this guide you will have a fully automated cross-platform media player, updated with all of your favorite tv shows and movies. My favorite part about this stack is once it is complete it requires little to no upkeep. Also I don’t need to constantly be monitoring subreddits for when season 3 of <a href="http://rickandmorty.wikia.com/wiki/Rick_and_Morty_Wiki" target="_blank" rel="external">Rick and Morty</a> comes out, it will download the first episode as soon as it comes out and drop it on my <a href="www.plex.tv">Plex</a> immediately. Enough hype, let’s get started.</p>
+<h2 id="Preface"><a href="#Preface" class="headerlink" title="Preface"></a>Preface</h2><p>We are going to be utilizing Usenet and NZBs to download the shows. If you are unsure about what these are, the legal ramifications, or the difference between this and torrenting, I suggest that you read up about on the <a href="https://www.reddit.com/r/usenet/wiki/faq" target="_blank" rel="external">/r/usenet FAQ here</a>. Usenet is overall better than torrents for our purpose here because we will get better and more reliable download speeds and we will avoid bandwidth caps from our ISPs because we are not seeding any of our downloaded files.</p>
+<h2 id="The-Stack"><a href="#The-Stack" class="headerlink" title="The Stack"></a>The Stack</h2><p>So to achieve a fully automated entertainment downloader and displayer we are going to need to set up a few things:</p>
+<ol>
+<li>A Usenet</li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;This is a guide to rolling out your own customizable alternative to a &lt;a href=&quot;https://www.reddit.com/r/kodi/&quot; target=&quot;_blank&quot; rel=&quot;exter
+    
+    </summary>
+    
+      <category term="Home automation" scheme="http://beardo.io/categories/Home-automation/"/>
+    
+    
+      <category term="Plex" scheme="http://beardo.io/tags/Plex/"/>
+    
+      <category term="NZB" scheme="http://beardo.io/tags/NZB/"/>
+    
+      <category term="Raspberry PI" scheme="http://beardo.io/tags/Raspberry-PI/"/>
+    
+      <category term="NZBGet" scheme="http://beardo.io/tags/NZBGet/"/>
+    
+      <category term="NewsHosting" scheme="http://beardo.io/tags/NewsHosting/"/>
+    
+      <category term="Usenet" scheme="http://beardo.io/tags/Usenet/"/>
+    
+      <category term="Sonarr" scheme="http://beardo.io/tags/Sonarr/"/>
+    
+      <category term="Couch Potato" scheme="http://beardo.io/tags/Couch-Potato/"/>
+    
+      <category term="TV" scheme="http://beardo.io/tags/TV/"/>
+    
+      <category term="Movies" scheme="http://beardo.io/tags/Movies/"/>
+    
+      <category term="Automation" scheme="http://beardo.io/tags/Automation/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>React Native Animated</title>
+    <link href="http://beardo.io/2016/10/12/React-Native-Animated/"/>
+    <id>http://beardo.io/2016/10/12/React-Native-Animated/</id>
+    <published>2016-10-13T01:15:03.000Z</published>
+    <updated>2017-05-04T05:44:31.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>In this talk we compare React Native animations to CSS animations. We break down the whole lifeline into reusable three steps. We will also talk about more complicated tools such as timing function and composition functions to create more advanced animations. Let’s get started</p>
+<p><script async class="speakerdeck-embed" data-id="88fe88ab86bc4314a0462ac5494cb670" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script></p>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/LikQKu-O9J0"></iframe>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;In this talk we compare React Native animations to CSS animations. We break down the whole lifeline into reusable three steps. We will al
+    
+    </summary>
+    
+    
+      <category term="React Native, Animated, Animations" scheme="http://beardo.io/tags/React-Native-Animated-Animations/"/>
+    
+  </entry>
+  
 </feed>
