@@ -68,4 +68,6 @@ theme: beardo
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/CapitanRedBeard/beardo.io.git
+  message: Site updated {{ now('YYYY-MM-DD HH:mm:ss') }}
